@@ -1,0 +1,58 @@
+body
+{
+    margin: 10px;
+    background-color: white;
+}
+
+.maindiv1
+{
+    height: 700px;
+    width: 100%;
+}
+
+.d1
+{
+    padding-left: 500px;
+    padding-top: 10px;
+    height: 30px;
+    width: 100%;
+    background-color: purple;
+    color: white;
+
+}
+
+.d2
+{
+    height: 110px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: aqua;
+}
+
+.d3
+{
+    height: 100px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: aqua;
+}
+
+.d4
+{
+    height: 100px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: aqua;
+}
+
+p
+{
+    margin-left: 20px;
+}
+
+h3
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
