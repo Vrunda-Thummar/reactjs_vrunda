@@ -1,0 +1,100 @@
+body
+{
+    margin: 0;
+}
+
+:last-child nav
+{
+    color:red; 
+    background-color:yellow;
+}
+
+:where(.h1)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+:where(.heading)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+:where(.head)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+:where(input)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+/* section div h1
+{
+    color:red; 
+    background-color:yellow;
+} */
+
+:first-child span p
+{
+    color:red; 
+    background-color:yellow;
+}
+
+:nth-last-child() 
+{
+    color:red; 
+    background-color:yellow;
+}
+
+div:nth-of-type(2) h1:nth-child(2)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+h1:nth-child(22)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+h1:nth-child(19)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+h1:nth-child(3)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+h1:nth-child(6)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+h1:nth-child(14)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+a:nth-child(23)
+{
+    color:red; 
+    background-color:yellow;
+}
+
+div:nth-child(2)
+{
+    color:red; 
+    background-color:yellow;
+}

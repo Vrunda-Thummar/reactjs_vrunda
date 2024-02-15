@@ -1,0 +1,117 @@
+body
+{
+    margin: 0;
+}
+
+.maindiv
+{
+    background-color: white;
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+
+.d2
+{
+    background-color: rgb(2, 82, 2);
+    height: 400px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+
+}
+
+.P1
+{
+    margin-top: 30px;
+    margin-left: 65px;
+    font-size: 20px;
+    color: white;
+    
+    
+}
+
+.h1
+{
+    
+    margin-left: 30px;
+    color: yellow;
+    font-size: 30px;
+}
+
+.i1
+{
+    height: 270px;
+    width: 300px;
+    
+}
+
+.maindiv2
+{
+    display: flex;
+}
+
+.d3
+{
+    display: flex;
+    background-color: red;
+    height: 220px;
+    width: 380px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.i2
+{
+    height: 220px;
+   
+}
+
+.p2
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+}
+
+.h2
+{
+    
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+    /* font-size: 50px; */
+}
+
+.h3
+{
+    /* margin-top: 10px; */
+    margin-left: 30px;
+    color: yellow;
+}
+
+.b1
+{
+    margin-left: 30px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.d5
+{
+    display: flex;
+}
+
+.i3
+{ 
+    background-image: url("img/asset\ 42.png");
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    height: 220px;
+}
