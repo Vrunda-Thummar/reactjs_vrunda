@@ -1,0 +1,95 @@
+.maind {
+  margin-top: 30px;
+}
+
+.maindiv {
+  height: 40px;
+  width: 50px;
+  margin-left: 20px;
+  display: flex;
+}
+
+.mainp {
+  display: flex;
+  margin-left: 200px;
+}
+
+.maindiv2 img {
+  width: 1430px;
+  margin-top: 30px;
+}
+
+.container {
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  color: white;
+  top: 60px;
+  left: 500px;
+}
+
+.text1 {
+  position: absolute;
+  color: white;
+  top: 110px;
+  left: 520px;
+}
+
+.img2 img {
+  height: 200px;
+  width: 450px;
+  margin-top: 110px;
+  margin-left: 370px;
+}
+
+.d1 {
+  display: flex;
+}
+
+.p8 {
+  margin-left: 400px;
+  font-size: 40px;
+  color: orange;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.p9 {
+  margin-left: 10px;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.b1 {
+  margin-left: 500px;
+  margin-top: 20px;
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 20px;
+  width: 200px;
+  font-size: 20px;
+}
+
+.img3 img {
+  height: 200px;
+  width: 1430px;
+  margin-top: 90px;
+}
+
+.overlap {
+  position: absolute;
+  width: 1430px;
+  margin-top: 30px;
+  color: blue;
+}
+
+.ticket {
+  background-color: orange;
+  height: 50px;
+  width: 300px;
+  margin-left: 100px;
+}
+
+/*# sourceMappingURL=main.css.map */

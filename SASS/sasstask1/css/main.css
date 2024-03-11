@@ -1,0 +1,225 @@
+.nav
+{
+  display: flex;
+  justify-content:space-evenly;
+}
+.maindiv {
+  height: 40px;
+  width: 50px;
+  margin-left: 20px;
+  display: flex;
+}
+
+.mainp {
+  display: flex;
+  margin-left: 200px;
+}
+
+.maindiv2 img {
+  width: 1430px;
+  margin-top: 30px;
+}
+
+.container {
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  color: white;
+  top: 60px;
+  left: 500px;
+}
+
+.menu .button {
+  height: 60px;
+  width: 150px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #ff6d09;
+}
+
+.divide
+{
+  color:white;
+}
+
+.menu .button img {
+  height: 20px;
+  width: 20px;
+}
+.menu .button a {
+  text-decoration: none;
+  color: white;
+}
+
+.text1 {
+  position: absolute;
+  color: white;
+  top: 110px;
+  left: 520px;
+}
+
+.img2 img {
+  height: 200px;
+  width: 450px;
+  margin-top: 110px;
+  margin-left: 370px;
+}
+
+.d1 {
+  display: flex;
+}
+
+.p8 {
+  margin-left: 400px;
+  font-size: 40px;
+  color: orange;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.p9 {
+  margin-left: 10px;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.b1 {
+  margin-left: 500px;
+  margin-top: 20px;
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 20px;
+  width: 200px;
+  font-size: 20px;
+}
+
+.img3 img {
+  height: 200px;
+  width: 1430px;
+  margin-top: 90px;
+}
+
+.overlap {
+  position: absolute;
+  width: 1430px;
+  margin-top: 30px;
+  color: blue;
+}
+
+.ticket {
+  background-color: orange;
+  height: 50px;
+  width: 300px;
+  margin-left: 100px;
+}
+
+/*# sourceMappingURL=main.css.map */
+
+/* .container {
+  margin: 30px;
+}
+.container .navigation {
+  display: flex;
+  justify-content: space-between;
+}
+.container .logo img {
+  width: 100%;
+  height: 40px;
+}
+.container .navitems ul {
+  list-style-type: none;
+  display: flex;
+}
+.container .navitems ul li a {
+  color: black;
+  margin-left: 30px;
+  text-decoration: none;
+}
+.container .navitems ul li a:hover {
+  color: orange;
+}
+.container .menu .button {
+  height: 60px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff6d09;
+}
+.container .menu .button img {
+  height: 20px;
+  width: 20px;
+}
+.container .menu .button a {
+  text-decoration: none;
+  color: black;
+}
+
+/** banner *****/
+/* .main img {
+  width: 100%;
+  height: 150px;
+}
+.main .img4 {
+  width: 1519px;
+  height: 150px;
+  background-color: #241234;
+  position: absolute;
+  opacity: 0.5;
+}
+.main .text1 {
+  position: absolute;
+  top: 140px;
+  left: 670px;
+  text-align: center;
+  line-height: 20px;
+  color: white;
+}
+.main .new {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+.main .new img {
+  height: 150px;
+  width: 400px;
+}
+.main .text2 {
+  display: flex;
+  justify-content: center;
+}
+.main .text2 p {
+  font-size: 35px;
+  color: #ff6d09;
+}
+.main .text2 h1 {
+  font-size: 40px;
+}
+.main .button2 {
+  display: flex;
+  justify-content: center;
+}
+.main .button2 .one {
+  height: 50px;
+  width: 170px;
+  border: 0;
+  background-color: #ff6d09;
+  text-decoration: none;
+  color: white;
+}
+.main .imgall5 {
+  margin-top: 20px;
+}
+.main .imgall5 img {
+  height: 100%;
+  width: 100%;
+}
+.main .imgall5 .tool {
+  width: 1519px;
+  height: 66px;
+  background-color: #241234;
+  position: absolute;
+  opacity: 0.5;}  */
