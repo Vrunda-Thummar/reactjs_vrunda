@@ -1,0 +1,433 @@
+body
+{
+    margin: 10px;
+    background-color: black;
+}
+
+.maindiv1
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 2px solid rgb(110, 109, 109);    
+    height: 290px;
+    max-width: 900px;
+    background-color:rgb(218, 207, 207);
+    display: flex;
+    justify-content:flex-start;
+    
+}
+
+.box-1
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box-2
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box-3
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box-4
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box-5
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.maindiv2
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 2px solid rgb(110, 109, 109);    
+    height: 290px;
+    max-width: 900px;
+    background-color:rgb(218, 207, 207);
+    display: flex;
+    justify-content:center;
+    
+}
+
+.box-6
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box-7
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box-8
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box-9
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box-10
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.maindiv3
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 2px solid rgb(110, 109, 109);    
+    height: 290px;
+    max-width: 900px;
+    background-color:rgb(218, 207, 207);
+    display: flex;
+    justify-content:flex-end;
+    
+}
+
+.box1
+{
+    margin-top: 60px;
+    margin-right: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box2
+{
+    margin-top: 60px;
+    margin-right: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box3
+{
+    margin-top: 60px;
+    margin-right: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box4
+{
+    margin-top: 60px;
+    margin-right: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box5
+{
+    margin-top: 60px;
+    margin-right: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.maindiv4
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 2px solid rgb(110, 109, 109);    
+    height: 290px;
+    max-width: 900px;
+    background-color:rgb(218, 207, 207);
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+.box6
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box7
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box8
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box9
+{
+    margin-top: 60px;
+    margin-left: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.box10
+{
+    margin-top: 60px;
+    margin-right: 10px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.maindiv5
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 2px solid rgb(110, 109, 109);    
+    height: 290px;
+    max-width: 900px;
+    background-color:rgb(218, 207, 207);
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+.b1
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.b2
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.b3
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.b4
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.b5
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.maindiv6
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 2px solid rgb(110, 109, 109);    
+    height: 290px;
+    max-width: 900px;
+    background-color:rgb(218, 207, 207);
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+
+.b6
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.b7
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.b8
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.b9
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}
+
+.b10
+{
+    margin-top: 60px;
+    height: 150px;
+    width: 125px;
+    font-size: 50px;
+    background-color: brown;
+    color: white;    
+        
+}

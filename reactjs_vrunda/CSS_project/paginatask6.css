@@ -1,0 +1,36 @@
+body
+{
+    background-image: url("./img/bg5.jpg");
+}
+.pagination 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.pagination div 
+{
+    margin-top: 275px;
+    height: 50px;
+    width: 50px;
+    border: 3px solid white;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    color: rgb(3, 3, 63);
+}
+
+.pagination div span 
+{
+    font-size: 30px;
+    color: white;
+}
+
+.pagination div:hover 
+{
+    border: 3px solid #F065AD;
+    background-color: #F065AD;
+    border-radius: 100%;
+}
