@@ -1,10 +1,12 @@
-/* css import */
-
 /* @import './L-2.css'; */
 /* body{
     margin: 0;
     background-color: green;
 } */
+
+/* css import */
+
+
 
 /* css resetting properties value */
 /* p{
@@ -131,7 +133,19 @@ background-color: red;
     visited
 */
 
-a:link{
+/* a:link{
     color:red;
 }
 
+a:active{
+    color:green;    
+}
+
+a:hover{
+    color:orange;
+    text-decoration:none;
+}
+
+a:visited{
+    color:black;
+} */

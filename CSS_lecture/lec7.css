@@ -63,7 +63,7 @@ body
 }
 .div-2
 {
-    flex-shrink: 20;
+    flex-shrink: 10;
     background-color: rgb(254, 212, 0);
 }
 .div-3

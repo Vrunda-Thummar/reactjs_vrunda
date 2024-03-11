@@ -150,12 +150,12 @@ object-fit: cover;
 /* filter: drop-shadow(10px 10px 2px gray); */
 }
 
-.box-1{
-/* height: 300px; */
-/* width: 300px; */
-/* position: absolute; */
-/* background-color: red; */
-/* backdrop-filter: blur(10px); */
+.box{
+height: 300px;
+width: 300px;
+position: absolute;
+background-color: red;
+backdrop-filter: blur(10px);
  /* filter:blur(20px) */
 /* backdrop-filter:brightness(50%) */
 /* backdrop-filter:saturate(1000%); */
@@ -207,7 +207,7 @@ animation-name: moveRight{
 
 */
 
-.animation-content{
+/* .animation-content{
 height: 100px;
 width: 100px;
 background-color: orangered;
@@ -215,7 +215,7 @@ animation-name: Rotate;
 animation-duration: 10s;
 animation-delay: 5s;
 margin: 100px;
-}
+} */
 
 /* @keyframes Rotate{
 from{
@@ -574,22 +574,22 @@ animation-timing-function: steps(4, end);{
 */
 
 
-.animation-function{
+/* .animation-function{
   height: 100px;
   width:100px;
   background-color: gray;
   animation-name:Move;
   animation-duration: 5s;
-  /* animation-delay: 5s; */
+  animation-delay: 5s;
   margin: 50px;
   font-size: 35px;
   color:white;
   border:3px solid black;
-  /* animation-fill-mode: both; */
+  animation-fill-mode: both;
   animation-iteration-count: infinite;
-  /* animation-play-state: paused; */
-  /* animation-timing-function: steps(100); */
-}
+  animation-play-state: paused;
+  animation-timing-function: steps(100);
+} */
 
 /* @keyframes Move{
   0%{
@@ -614,7 +614,7 @@ Only animation-duration and animation-name are required.
 
 /* Spinner */
 
-.maindiv{
+/* .maindiv{
   height: 500px;
   width: 500px;
   background-color: rgb(208, 208, 208);
@@ -676,7 +676,7 @@ Only animation-duration and animation-name are required.
   100%{
     transform: rotate(-360deg) scale(1.5);
   }
-}
+} */
 
 
 

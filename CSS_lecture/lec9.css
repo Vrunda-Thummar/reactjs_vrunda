@@ -134,7 +134,7 @@ body{
 
 /* Examples */
 
-/* .counter{
+.counter{
     margin:100px 200px;
     display: inline-block;
     background-color: tomato;
@@ -160,7 +160,7 @@ body{
     text-align: center;
     color:white;
     border:1px solid white;
-} */
+}
 
 
 
