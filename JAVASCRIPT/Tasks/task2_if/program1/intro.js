@@ -1,6 +1,6 @@
 // Check if a number is positive, negative, or zero
 
-let a = -10
+let a = 0
 
 if (a > 0) 
 {

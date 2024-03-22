@@ -9,6 +9,7 @@
 body
 {
   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
@@ -63,7 +64,7 @@ a
   font-size: 12px;
 }
 
-.overlayer {
+.overlap {
     height: 165px;
     width: 1280px;
     background-color: #2a1f3c;
@@ -71,7 +72,7 @@ a
     opacity: 0.8;
 }
 
-.title-img {
+.titleimg {
     width: $w-0;
     height: 20%;
 
@@ -87,7 +88,7 @@ a
     color: $c-7;
 }
 
-.error-img img {
+.mainimg img {
     height: $h-1;
 }
 
@@ -96,7 +97,7 @@ a
   font-size: 24px;
 }
 
-#angle {
+#right {
     font-size: 8px;
 }
 
@@ -104,12 +105,12 @@ a
     font-size: 10px;
 }
 
-.banner {
+.main2 {
     margin-top: 50px;
     text-align: center;
 }
 
-.p-tag {
+.mainp {
     @include flex;
 }
 
@@ -133,8 +134,8 @@ button {
     border: none;
 }
 
-.overlayer-2 {
-    // margin-top: 50px;
+.overlap-2 {
+    
     height: $h-0;
     width: $w-0;
     background-color: #2a1f3c;
@@ -152,8 +153,8 @@ button {
 
 }
 
-.f-img img {
+.fimg img {
     width: $w-0;
-    // height: $h-0;
+    
 
 }

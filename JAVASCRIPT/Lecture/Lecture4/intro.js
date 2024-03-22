@@ -1,4 +1,4 @@
-// Javascript Data Types
+/* Javascript Data Types */
 
 // String
 // Number

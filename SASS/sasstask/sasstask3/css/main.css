@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
@@ -86,7 +87,7 @@ a {
   margin-top: 100px;
 }
 
-#angle {
+#right {
   font-size: 8px;
 }
 
@@ -94,75 +95,89 @@ a {
   font-size: 10px;
 }
 
-.banner {
+.main1 {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.banner .main .line-1 {
+
+.line-1 {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 50px;
 }
-.banner .main .line-1 .p3 {
+
+.p3 {
   margin: 0px;
   font-size: 30px;
 }
-.banner .main .line-1 .p4 {
+
+.p4 {
   margin: 0px;
   margin-left: 5px;
-  color: #ff6600;
+  color: orange;
   font-style: italic;
   font-size: 30px;
 }
-.banner .main .p5 {
+
+.p5 {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 8px;
   font-size: 12px;
 }
-.banner .main .name {
+
+.name {
   height: 20px;
   width: 250px;
   margin-right: 10px;
   font-size: 8px;
   padding-left: 10px;
 }
-.banner .main .email {
+
+.email {
   height: 20px;
   width: 235px;
   font-size: 8px;
   padding-left: 10px;
 }
-.banner .main .phone {
+
+.phone {
   height: 20px;
   width: 513px;
   margin-top: 10px;
   font-size: 8px;
   padding-left: 10px;
 }
-.banner .main textarea {
+
+textarea {
   height: 120px;
   width: 513px;
   margin-top: 10px;
   font-size: 8px;
   padding-left: 10px;
 }
-.banner .button {
+
+.button {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.banner .button button {
+
+button {
   height: 30px;
   width: 100px;
   font-size: 10px;
   background-color: #ff6600;
   color: white;
   border: none;
-  margin-top: 30px;
+  margin-top: 20px;
+}
+
+.textbox {
+  padding: 10px;
 }
 
 /*# sourceMappingURL=main.css.map */

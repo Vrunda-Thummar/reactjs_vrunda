@@ -13,6 +13,7 @@
 
 body {
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
@@ -96,7 +97,7 @@ a {
     margin-top: 100px;
 }
 
-#angle {
+#right {
     font-size: 8px;
 }
 
@@ -104,83 +105,85 @@ a {
     font-size: 10px;
 }
 
-.banner {
+.main1 {
     @include flex;
+}
 
-    .main {
+.line-1 {
+    @include flex;
+    margin-top: 50px;
+}
 
+.p3 {
+    margin: 0px;
+    font-size: 30px;
+}
 
-
-        .line-1 {
-            @include flex;
-            margin-top: 50px;
-
-            .p3 {
-                margin: 0px;
-                font-size: 30px;
-            }
-
-            .p4 {
-                margin: 0px;
-                margin-left: 5px;
-                color: $c-6;
-                font-style: italic;
-                font-size: 30px;
-            }
-        }
-
-        .p5 {
-            @include flex;
-            margin-top: 8px;
-            font-size: 12px;
-        }
+.p4 {
+    margin: 0px;
+    margin-left: 5px;
+    color: orange;
+    font-style: italic;
+    font-size: 30px;
+}
 
 
-        .name {
-            height: 20px;
-            width: 250px;
-            margin-right: 10px;
-            font-size: 8px;
-            padding-left: 10px;
-        }
-
-        .email {
-            height: 20px;
-            width: 235px;
-            font-size: 8px;
-            padding-left: 10px;
-        }
+.p5 {
+    @include flex;
+    margin-top: 8px;
+    font-size: 12px;
+}
 
 
-        .phone {
-            height: 20px;
-            width: 513px;
-            margin-top: 10px;
-            font-size: 8px;
-            padding-left: 10px;
-        }
+.name {
+    height: 20px;
+    width: 250px;
+    margin-right: 10px;
+    font-size: 8px;
+    padding-left: 10px;
+}
 
-        textarea {
-            height: 120px;
-            width: 513px;
-            margin-top: 10px;
-            font-size: 8px;
-            padding-left: 10px;
+.email {
+    height: 20px;
+    width: 235px;
+    font-size: 8px;
+    padding-left: 10px;
+}
 
-        }
-    }
 
-    .button {
-        @include flex;
+.phone {
+    height: 20px;
+    width: 513px;
+    margin-top: 10px;
+    font-size: 8px;
+    padding-left: 10px;
+}
 
-        button {
-            height: 30px;
-            width: $w-1;
-            font-size: $fs-6;
-            background-color: $bg-6;
-            color: $c-7;
-            border: none;
-            margin-top: 30px;
-        }
-    }
+textarea {
+    height: 120px;
+    width: 513px;
+    margin-top: 10px;
+    font-size: 8px;
+    padding-left: 10px;
+
+}
+
+
+.button {
+    @include flex;
+}
+
+button {
+    height: 30px;
+    width: $w-1;
+    font-size: $fs-6;
+    background-color: $bg-6;
+    color: $c-7;
+    border: none;
+    margin-top: 20px;
+}
+
+.textbox
+{
+    padding: 10px;
 }

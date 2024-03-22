@@ -2,9 +2,11 @@
 
 let a = 2025
 
-if (a % 4 == 0) {
+if (a % 4 == 0) 
+{
     console.log("Leap year.");
 }
-else {
+else 
+{
     console.log("Not leap year.");
 }
